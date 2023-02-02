@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发学习记录/vue+element UI.md",
-                "mode": "preview",
+                "file": "开发学习记录/linux命令.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发学习记录/vue+element UI.md",
+                "file": "开发学习记录/linux命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发学习记录/vue+element UI.md",
+                "file": "开发学习记录/linux命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发学习记录/vue+element UI.md"
+                "file": "开发学习记录/linux命令.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "da1dd52d4ccf188d",
   "lastOpenFiles": [
+    "开发学习记录/vue+element UI.md",
     "开发学习记录/Java.md",
     "TODO/查询旅游攻略.md",
     "TODO/To Do List.md",

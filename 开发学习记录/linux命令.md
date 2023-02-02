@@ -1,4 +1,4 @@
-# linux命令
+
 firewall-cmd --reload 重新防火墙端口
 
 firewall-cmd --permanent --add-port=5014/tcp 添加指定端口
@@ -8,7 +8,6 @@ firewall-cmd --permanent --remove-port=50010/tcp 删除指定端口
 ps -ef | grep userauth 查找指定服务
 
 **lsof -i :端口号**
-
 
 
 找不到/usr/share/fonts 这个文件夹 使用以下命令
