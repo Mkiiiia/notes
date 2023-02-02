@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发学习记录/Java.md",
-                "mode": "source",
+                "file": "开发学习记录/vue+element UI.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发学习记录/Java.md",
+                "file": "开发学习记录/vue+element UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发学习记录/Java.md",
+                "file": "开发学习记录/vue+element UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发学习记录/Java.md"
+                "file": "开发学习记录/vue+element UI.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "da1dd52d4ccf188d",
   "lastOpenFiles": [
+    "开发学习记录/Java.md",
     "TODO/查询旅游攻略.md",
     "TODO/To Do List.md",
     "工作总结/2023/二月.md",
