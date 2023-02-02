@@ -1,0 +1,8 @@
+54d6a527992922ef83288664a5b9194558286e40		branch 'master' of http://123.57.59.23:8008/yunzhu/crmservice
+e2289ebc1d46a73e428ea103299d270b90f910b1	not-for-merge	branch 'ID1000197-服务管理模块改造' of http://123.57.59.23:8008/yunzhu/crmservice
+39c07e8481783de2f59cdd76cf4f7493d0029417	not-for-merge	branch 'ID1000485-【云竹-服务管理】服务单无法保存数据' of http://123.57.59.23:8008/yunzhu/crmservice
+24412829b6894c7f83287498cb239766f74e1816	not-for-merge	branch 'ID1000664--服务管理增加审批流' of http://123.57.59.23:8008/yunzhu/crmservice
+e04902f251ce5a4d07ec370691d0f7ec18489b88	not-for-merge	branch 'ID1000710--crm和成交客户关联' of http://123.57.59.23:8008/yunzhu/crmservice
+d3573ac46ab3ccf0008b0db578306fee184029cc	not-for-merge	branch 'ID1000726-JZL通知发放至服务号-后端开发' of http://123.57.59.23:8008/yunzhu/crmservice
+96430d4827d1d3108c258ab897c270edc1e16df4	not-for-merge	branch 'ID1001066-消息通知修改调用接口' of http://123.57.59.23:8008/yunzhu/crmservice
+b46d630c1b0eca19a61a61b1e862c735d6ff
