@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二月.md",
+                "file": "工作总结/2023/一月.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "二月.md",
+                "file": "工作总结/2023/一月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "二月.md",
+                "file": "工作总结/2023/一月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "二月.md"
+                "file": "工作总结/2023/一月.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "fa51a679b63e768b",
   "lastOpenFiles": [
+    "工作总结/2023/二月.md",
     "工作总结/2023/一月.md",
     "工作总结/2023/汇总目录.md",
     "模板/月工作总结模板.md",
