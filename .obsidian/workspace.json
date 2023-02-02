@@ -23,9 +23,11 @@
             "id": "fa51a679b63e768b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO/To Do List.md"
+                "file": "工作总结/2023/汇总目录.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/To Do List.md",
+                "file": "工作总结/2023/汇总目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/To Do List.md",
+                "file": "工作总结/2023/汇总目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/To Do List.md"
+                "file": "工作总结/2023/汇总目录.md"
               }
             }
           }
@@ -157,17 +159,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6d3a2fec2e5aea96",
+  "active": "fa51a679b63e768b",
   "lastOpenFiles": [
+    "工作总结/2023/一月.md",
+    "工作总结/2023/二月.md",
+    "模板/月工作总结模板.md",
     "TODO/查询旅游攻略.md",
     "TODO/To Do List.md",
     "开发学习记录/Java.md",
     "开发学习记录/linux命令.md",
     "开发学习记录/vue+element UI.md",
     "开发学习记录/思路总结.md",
-    "工作总结/2023/二月.md",
-    "工作总结/2023/一月.md",
-    "模板/月工作总结模板.md",
     "工作总结/2023/汇总目录.md"
   ]
 }
