@@ -11,9 +11,11 @@
             "id": "bd55272a1ad26395",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO/To Do List.md"
+                "file": "年工作总结/2023/二月.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d9718beb97d1827e",
@@ -83,13 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/To Do List.md",
+                "file": "年工作总结/2023/二月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/To Do List.md",
+                "file": "年工作总结/2023/二月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/To Do List.md"
+                "file": "年工作总结/2023/二月.md"
               }
             }
           }
@@ -144,12 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6d3a2fec2e5aea96",
+  "active": "2b74676d47a52459",
   "lastOpenFiles": [
+    "年工作总结/2023/汇总目录.md",
+    "年工作总结/2023/二月.md",
     "TODO/To Do List.md",
     "TODO/查询旅游攻略.md",
-    "年工作总结/2023/二月.md",
-    "年工作总结/2023/汇总目录.md",
     "年工作总结/2023/一月.md",
     "需求文档/阿里巴巴java开发手册1.6-泰山版.pdf",
     "模板/月工作总结模板.md",
