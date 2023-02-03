@@ -11,9 +11,11 @@
             "id": "91a757e3094673b8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO/To Do List.md"
+                "file": "年工作总结/2023/二月.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/To Do List.md",
+                "file": "年工作总结/2023/二月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/To Do List.md",
+                "file": "年工作总结/2023/二月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/To Do List.md"
+                "file": "年工作总结/2023/二月.md"
               }
             }
           }
@@ -146,15 +148,15 @@
   },
   "active": "91a757e3094673b8",
   "lastOpenFiles": [
+    "年工作总结/2023/汇总目录.md",
+    "年工作总结/2023/一月.md",
+    "年工作总结/2023/二月.md",
     "TODO/查询旅游攻略.md",
-    "工作总结/2023/一月.md",
-    "工作总结/2023/汇总目录.md",
-    "工作总结/2023/二月.md",
-    "模板/月工作总结模板.md",
     "TODO/To Do List.md",
+    "需求文档/阿里巴巴java开发手册1.6-泰山版.pdf",
+    "模板/月工作总结模板.md",
     "开发学习记录/Java.md",
     "开发学习记录/linux命令.md",
-    "开发学习记录/vue+element UI.md",
-    "开发学习记录/思路总结.md"
+    "开发学习记录/vue+element UI.md"
   ]
 }
