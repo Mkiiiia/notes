@@ -11,28 +11,13 @@
             "id": "91a757e3094673b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "工作总结/2023/一月.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa51a679b63e768b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工作总结/2023/汇总目录.md",
-                "mode": "preview",
-                "source": false
+                "file": "TODO/To Do List.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作总结/2023/汇总目录.md",
+                "file": "TODO/To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作总结/2023/汇总目录.md",
+                "file": "TODO/To Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作总结/2023/汇总目录.md"
+                "file": "TODO/To Do List.md"
               }
             }
           }
@@ -159,17 +144,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fa51a679b63e768b",
+  "active": "91a757e3094673b8",
   "lastOpenFiles": [
+    "TODO/查询旅游攻略.md",
     "工作总结/2023/一月.md",
+    "工作总结/2023/汇总目录.md",
     "工作总结/2023/二月.md",
     "模板/月工作总结模板.md",
-    "TODO/查询旅游攻略.md",
     "TODO/To Do List.md",
     "开发学习记录/Java.md",
     "开发学习记录/linux命令.md",
     "开发学习记录/vue+element UI.md",
-    "开发学习记录/思路总结.md",
-    "工作总结/2023/汇总目录.md"
+    "开发学习记录/思路总结.md"
   ]
 }
