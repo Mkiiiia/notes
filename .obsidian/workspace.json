@@ -11,9 +11,11 @@
             "id": "bd55272a1ad26395",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO/To Do List.md"
+                "file": "TODO/To Do List.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
