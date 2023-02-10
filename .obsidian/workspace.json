@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "211da912ce5982e0",
+        "id": "d06c0680f5a6d28c",
         "type": "tabs",
         "children": [
           {
-            "id": "2521a563ebb60e13",
+            "id": "d69b0c393cacb7bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "开发学习记录/java/内部类.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -147,17 +147,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2521a563ebb60e13",
+  "active": "d69b0c393cacb7bf",
   "lastOpenFiles": [
-    "pic/Pasted image 20230210135623.png",
+    "pic/Pasted image 20230210140527.png",
     "开发学习记录/java/内部类.md",
+    "pic/image.md",
+    "pic/Pasted image 20230210135623.png",
     "[Pasted image 20230210135623.png]().md",
     "年工作总结/2023/二月.md",
     "TODO/To Do List.md",
     "NoteData/账号.md",
     "pwd/恢复密钥.md",
-    "开发学习记录/java/Java目录.md",
-    "年工作总结/2023/一月.md",
-    "年工作总结/2023/汇总目录.md"
+    "开发学习记录/java/Java目录.md"
   ]
 }
