@@ -11,9 +11,11 @@
             "id": "d69b0c393cacb7bf",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO/To Do List.md"
+                "file": "开发学习记录/旧/linux命令.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/To Do List.md",
+                "file": "开发学习记录/旧/linux命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/To Do List.md",
+                "file": "开发学习记录/旧/linux命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/To Do List.md"
+                "file": "开发学习记录/旧/linux命令.md"
               }
             }
           }
@@ -147,6 +149,7 @@
   },
   "active": "d69b0c393cacb7bf",
   "lastOpenFiles": [
+    "TODO/To Do List.md",
     "年工作总结/2023/二月.md",
     "年工作总结/2023/一月.md",
     "模板/月工作总结模板.md",
@@ -155,7 +158,6 @@
     "pic/Pasted image 20230210140527.png",
     "pic/image.md",
     "pic/Pasted image 20230210135623.png",
-    "[Pasted image 20230210135623.png]().md",
-    "TODO/To Do List.md"
+    "[Pasted image 20230210135623.png]().md"
   ]
 }
