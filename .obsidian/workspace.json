@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "720a9a4d6ab334d9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,8 +147,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "720a9a4d6ab334d9",
+  "active": "16d5ac008ab79ac5",
   "lastOpenFiles": [
+    "Pasted image 20230223110249.png",
     "TODO/To Do List.md",
     "TODO/查询旅游攻略.md",
     "年工作总结/2023/二月.md",
