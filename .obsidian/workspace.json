@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "720a9a4d6ab334d9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,15 +150,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "16d5ac008ab79ac5",
+  "active": "720a9a4d6ab334d9",
   "lastOpenFiles": [
     "TODO/To Do List.md",
     "TODO/查询旅游攻略.md",
