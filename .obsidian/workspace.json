@@ -23,9 +23,11 @@
             "id": "1bbe8f8d238b8d30",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TODO/To Do List.md"
+                "file": "pwd/账号.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/To Do List.md",
+                "file": "pwd/账号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/To Do List.md",
+                "file": "pwd/账号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/To Do List.md"
+                "file": "pwd/账号.md"
               }
             }
           }
@@ -160,10 +162,11 @@
   },
   "active": "1bbe8f8d238b8d30",
   "lastOpenFiles": [
+    "pwd/恢复密钥.md",
+    "TODO/To Do List.md",
     "年工作总结/2023/三月.md",
     "年工作总结/2023/二月.md",
     "年工作总结/2023/汇总目录.md",
-    "TODO/To Do List.md",
     "需求文档/逻辑梳理/~$楼栋档案.mmap.~$lock",
     "需求文档/逻辑梳理/业户详情.mmap",
     "需求文档/逻辑梳理/~$房源档案.mmap.~$save",
@@ -173,7 +176,6 @@
     "Pasted image 20230223110249.png",
     "模板/月工作总结模板.md",
     "pwd/账号.md",
-    "pwd/恢复密钥.md",
     "开发学习记录/旧/linux命令.md",
     "年工作总结/2023/一月.md"
   ]
