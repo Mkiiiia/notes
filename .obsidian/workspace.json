@@ -23,11 +23,9 @@
             "id": "1bbe8f8d238b8d30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "年工作总结/2023/三月.md",
-                "mode": "source",
-                "source": false
+                "file": "TODO/To Do List.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "年工作总结/2023/三月.md",
+                "file": "TODO/To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "年工作总结/2023/三月.md",
+                "file": "TODO/To Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "年工作总结/2023/三月.md"
+                "file": "TODO/To Do List.md"
               }
             }
           }
@@ -162,8 +160,8 @@
   },
   "active": "1bbe8f8d238b8d30",
   "lastOpenFiles": [
-    "年工作总结/2023/二月.md",
     "年工作总结/2023/三月.md",
+    "年工作总结/2023/二月.md",
     "年工作总结/2023/汇总目录.md",
     "TODO/To Do List.md",
     "需求文档/逻辑梳理/~$楼栋档案.mmap.~$lock",
