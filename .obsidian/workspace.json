@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "191873d13edd7ad2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +170,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1bbe8f8d238b8d30",
+  "active": "191873d13edd7ad2",
   "lastOpenFiles": [
     "年工作总结/2023/三月.md",
     "pwd/账号.md",
