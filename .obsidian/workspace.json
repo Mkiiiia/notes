@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "年工作总结/2023/二月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "年工作总结/2023/二月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "年工作总结/2023/二月.md"
+              }
             }
           }
         ],
