@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d06c0680f5a6d28c",
+        "id": "4e8e4b1dea33ffc4",
         "type": "tabs",
         "children": [
           {
-            "id": "16d5ac008ab79ac5",
+            "id": "8adede928f7c1bbd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 666.5,
-                  "y": -229.91670608520508,
-                  "zoom": -1.25
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "未命名.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,10 +139,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "16d5ac008ab79ac5",
+  "active": "8adede928f7c1bbd",
   "lastOpenFiles": [
-    "TODO/To Do List.md",
     "未命名.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "TODO/To Do List.md",
     "TODO/查询旅游攻略.md",
     "pwd/恢复密钥.md",
     "pwd/账号.md",
@@ -162,7 +154,6 @@
     "年工作总结/2023/汇总目录.md",
     "年工作总结/2023/二月.md",
     "年工作总结/2023/一月.md",
-    "未命名 1.canvas",
     "需求文档/逻辑梳理/目录.md",
     "需求文档/逻辑梳理/~$楼栋档案.mmap.~$lock",
     "需求文档/逻辑梳理/业户详情.mmap",
